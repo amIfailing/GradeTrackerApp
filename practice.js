@@ -16,7 +16,7 @@ export default class firstClass extends React.Component {
   render() {
     return (
       <View>
-        <Text>Just some sample text.</Text>
+        <Text>Just some sample text, hi jesus.</Text>
       </View>
     )// end return
   }// end render
